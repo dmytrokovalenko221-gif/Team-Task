@@ -1,8 +1,3 @@
-<<<<<<< HEAD
+I am a soldier and I love.
+monster,killer,robber,redrogue
 Hello world
-
-=======
-I am WindFox
-I am a Elmacho and I can do everything.
-I am Odys
->>>>>>> ded61a56cd2edcd15dafaad61358557f1055d6c8
