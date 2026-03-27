@@ -1,5 +1,1 @@
-<<<<<<< elmacho
-I am a Elmacho and I can do everything.
-=======
-I am Odys
->>>>>>> main
+I am a soldier and I love.
