@@ -1,5 +1,3 @@
-<<<<<<< elmacho
+I am WindFox
 I am a Elmacho and I can do everything.
-=======
 I am Odys
->>>>>>> main
